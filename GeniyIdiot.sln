@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeniyIdiotConsoleApp", "GeniyIdiotConsoleApp\GeniyIdiotConsoleApp.csproj", "{521FE208-6EC6-40E4-ADB9-E5337071E6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeniyIdiotWinFormsApp", "GeniyIdiotWinFormsApp\GeniyIdiotWinFormsApp.csproj", "{ABCA3405-9A3A-4088-9332-4FF4C9395C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeniyIdiotClassLibrary", "GeniyIdiotClassLibrary\GeniyIdiotClassLibrary.csproj", "{36668427-E6CB-477F-82F7-9034A4B7CA80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521FE208-6EC6-40E4-ADB9-E5337071E6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521FE208-6EC6-40E4-ADB9-E5337071E6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521FE208-6EC6-40E4-ADB9-E5337071E6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521FE208-6EC6-40E4-ADB9-E5337071E6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCA3405-9A3A-4088-9332-4FF4C9395C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCA3405-9A3A-4088-9332-4FF4C9395C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCA3405-9A3A-4088-9332-4FF4C9395C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCA3405-9A3A-4088-9332-4FF4C9395C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36668427-E6CB-477F-82F7-9034A4B7CA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36668427-E6CB-477F-82F7-9034A4B7CA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36668427-E6CB-477F-82F7-9034A4B7CA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36668427-E6CB-477F-82F7-9034A4B7CA80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
